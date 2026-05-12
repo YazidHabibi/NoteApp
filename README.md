@@ -21,11 +21,11 @@ Aplikasi catatan (Notes) sederhana dan minimalis yang dibangun menggunakan **Flu
 
 | Mode Terang | Mode Gelap |
 |---|---|
-| ![Dark Mode Preview](<img width="500" height="656" alt="darkmodepreview" src="https://github.com/user-attachments/assets/fea3da3c-9905-457b-b0f1-37cdf8f8271c" />
-) | ![Light Mode Preview](<img width="498" height="653" alt="lightmodepreview" src="https://github.com/user-attachments/assets/cd2b0410-7388-4ea0-b5d8-90f69e1bcf14" />
+| ![Light Mode Preview](<img width="300" height="500" alt="lightmodepreview" src="https://github.com/user-attachments/assets/3a6c6a9e-5bd4-4ce6-8ad9-c10f71a874c5" />
+) | ![Dark Mode Preview](<img width="300" height="500" alt="darkmodepreview" src="https://github.com/user-attachments/assets/bdaf2fe0-7ccf-43b9-8b7f-138084fb6105" />
 ) |
 
-> *Catatan: Jangan lupa ganti gambar di atas dengan screenshot asli dari aplikasi kamu.*
+
 
 ---
 
