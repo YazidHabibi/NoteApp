@@ -24,7 +24,6 @@ Aplikasi catatan (Notes) sederhana dan minimalis yang dibangun menggunakan **Flu
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/24c368a4-5b9f-4a9a-b5d7-c290a107cdcd" width="300" alt="Light Mode Preview" /> | <img src="https://github.com/user-attachments/assets/4eb64311-0ecf-40ce-b839-935e7f86c0a0" width="300" alt="Dark Mode Preview" /> |
 
-> *Catatan: Jangan lupa ganti gambar di atas dengan screenshot asli dari aplikasi kamu.*
 
 ---
 
