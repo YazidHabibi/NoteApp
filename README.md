@@ -17,16 +17,14 @@ Aplikasi catatan (Notes) sederhana dan minimalis yang dibangun menggunakan **Flu
 
 ---
 
+
 ## 📸 Cuplikan Layar (Screenshots)
 
 | Mode Terang | Mode Gelap |
-|---|---|
-| <img width="340" height="500" alt="lightmodepreview" src="https://github.com/user-attachments/assets/fc125404-8f8c-4ff1-b00f-5f2df246020e" />
- |
- <img width="340" height="500" alt="darkmodepreview" src="https://github.com/user-attachments/assets/59011861-3e14-42ba-9d47-ef733770f602" />
- |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/24c368a4-5b9f-4a9a-b5d7-c290a107cdcd" width="300" alt="Light Mode Preview" /> | <img src="https://github.com/user-attachments/assets/4eb64311-0ecf-40ce-b839-935e7f86c0a0" width="300" alt="Dark Mode Preview" /> |
 
-
+> *Catatan: Jangan lupa ganti gambar di atas dengan screenshot asli dari aplikasi kamu.*
 
 ---
 
